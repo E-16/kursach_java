@@ -21,10 +21,12 @@
             android:layout_width="match_parent">
 
             <Button
+                android:text=""
+
                 android:height="120dp"
 
                 android:id="@+id/cell_11"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -32,8 +34,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text="Англ   228"
+
                 android:id="@+id/cell_12"
-                android:background="#444"
+                android:background="#90e749"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -41,8 +45,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_13"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -50,8 +56,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_14"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -59,8 +67,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_15"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -68,8 +78,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_16"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -79,15 +91,17 @@
         </LinearLayout>
 
         <LinearLayout
-            android:orientation="horizontal"
-            android:layout_height="wrap_content"
-            android:layout_width="match_parent">
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
 
             <Button
+                android:text="Кодинг 305"
+
                 android:height="120dp"
 
                 android:id="@+id/cell_21"
-                android:background="#444"
+                android:background="#4561d1"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -95,8 +109,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text="Англ   228"
+
                 android:id="@+id/cell_22"
-                android:background="#444"
+                android:background="#90e749"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -104,8 +120,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_23"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -113,8 +131,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_24"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -122,8 +142,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text="Физра 302"
+
                 android:id="@+id/cell_25"
-                android:background="#444"
+                android:background="#d78d43"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -131,8 +153,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_26"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -142,15 +166,17 @@
         </LinearLayout>
 
         <LinearLayout
-            android:orientation="horizontal"
-            android:layout_height="wrap_content"
-            android:layout_width="match_parent">
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
 
             <Button
+                android:text=""
+
                 android:height="120dp"
 
                 android:id="@+id/cell_31"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -158,8 +184,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text="Англ   228"
+
                 android:id="@+id/cell_32"
-                android:background="#444"
+                android:background="#90e749"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -167,8 +195,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text="ОС        311"
+
                 android:id="@+id/cell_33"
-                android:background="#444"
+                android:background="#51cce7"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -176,8 +206,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_34"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -185,8 +217,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_35"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -194,8 +228,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text="ОС        311"
+
                 android:id="@+id/cell_36"
-                android:background="#444"
+                android:background="#51cce7"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -205,15 +241,17 @@
         </LinearLayout>
 
         <LinearLayout
-            android:orientation="horizontal"
-            android:layout_height="wrap_content"
-            android:layout_width="match_parent">
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
 
             <Button
+                android:text=""
+
                 android:height="120dp"
 
                 android:id="@+id/cell_41"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -221,8 +259,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_42"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -230,8 +270,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_43"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -239,8 +281,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_44"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -248,8 +292,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_45"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -257,8 +303,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_46"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -267,16 +315,19 @@
 
         </LinearLayout>
 
+
         <LinearLayout
             android:orientation="horizontal"
             android:layout_height="wrap_content"
             android:layout_width="match_parent">
 
             <Button
+                android:text=""
+
                 android:height="120dp"
 
                 android:id="@+id/cell_51"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -284,8 +335,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_52"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -293,8 +346,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_53"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -302,8 +357,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_54"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -311,8 +368,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_55"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -320,8 +379,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_56"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -330,16 +391,19 @@
 
         </LinearLayout>
 
+
         <LinearLayout
             android:orientation="horizontal"
             android:layout_height="wrap_content"
             android:layout_width="match_parent">
 
             <Button
+                android:text=""
+
                 android:height="120dp"
 
                 android:id="@+id/cell_61"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -347,8 +411,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_62"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -356,8 +422,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_63"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -365,8 +433,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_64"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -374,8 +444,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_65"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -383,8 +455,10 @@
                 android:layout_height="match_parent" />
 
             <Button
+                android:text=""
+
                 android:id="@+id/cell_66"
-                android:background="#444"
+                android:background="#fff"
                 android:gravity="center_horizontal"
                 android:layout_width="0dp"
                 android:layout_weight="1"
